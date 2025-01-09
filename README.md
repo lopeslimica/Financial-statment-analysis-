@@ -1,4 +1,4 @@
-# Financial-statment-analysis-
+# Financial-statment-analysis of Taylor wimpey 
 
 **Problem Statement**:**
 The project addresses the need for comprehensive financial analysis of Taylor Wimpey, a UK-based home construction company, to assist equity investors in making informed investment decisions. The primary issue is the lack of clear insight into the company’s financial performance, earning quality, and comparative positioning within its industry amidst market uncertainties and economic challenges, such as fluctuating interest rates and the impacts of the COVID-19 pandemic.
